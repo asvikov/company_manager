@@ -1,0 +1,35 @@
+.company_logo {
+    width: 200px;
+    height: 200px;
+}
+#YMapsID {
+    max-width: 720px;
+    height: 400px;
+    margin-top: 20px;
+}
+.clear-b {
+    clear: both;
+}
+.popup-fade {
+    display: none;
+}
+.popup {
+    position: fixed;
+    top: 20%;
+    left: 35%;
+    padding: 25px;
+    max-width: 360px;
+    background: #fff;
+    border: 1px solid #bb2d3b;
+    border-radius: 4px;
+    z-index: 50;
+    opacity: 1;
+}
+.popup-close {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+.btn-act-tab {
+    font-size: 0.6rem;
+}
